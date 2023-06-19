@@ -1,0 +1,14 @@
+gsmSim7600.c:439:6:initGSMSIM868	32	static
+gsmSim7600.c:1560:6:updateMqttDataLength	56	dynamic
+gsmSim7600.c:1660:6:sendSystemConfigurationSMS	56	static
+gsmSim7600.c:1752:6:updatePhoneNumber	24	static
+gsmSim7600.c:1816:6:syncrtcwithNetworkTime	16	static
+gsmSim7600.c:1884:6:initHTTPURLforRemoteConfig	16	static
+gsmSim7600.c:1952:6:restoreHTTPURLforData	16	static
+gsmSim7600.c:1995:6:updateNetworkAPN	16	static
+gsmSim7600.c:2045:10:updateHTTPReadLength	16	static
+gsmSim7600.c:2106:6:initHTTPURLforFOTA	16	static
+gsmSim7600.c:2122:6:Diagnostic	8	static
+gsmSim7600.c:737:6:sendGSMCommand	16	static
+gsmSim7600.c:532:6:operateGSMSIM868	4464	static
+gsmSim7600.c:2160:6:updateMQTTClientID	16	static
